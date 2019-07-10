@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Table from "../src/components/Table";
 import SmsTable from "../src/components/smsTable";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 import "./styles.css";
 
