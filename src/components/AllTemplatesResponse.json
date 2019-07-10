@@ -1,0 +1,68 @@
+[
+    {
+        "templateId": "mpn_fund_trnsfr",
+        "templateName": "fund_transfer_alert_mobile_push_notification",
+        "title": "Fund Transfer",
+        "body": "The Fund transfer from your ac no &account_no has been complete",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Pending"
+    },
+    {
+        "templateId": "mpn_p_old",
+        "templateName": "purchase_alert_mobile_push_notification",
+        "title": "Purchase",
+        "body": "productname cardlastfour \r\n amount",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Live"
+    },
+    {
+        "templateId": "sms_trnsfer",
+        "templateName": "Transfer_alert_sms_notification",
+        "title": "Fund Transfer",
+        "body": "The amount has been successfully transfered",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Live"
+    },
+    {
+        "templateId": "sms_alert",
+        "templateName": "Card_alert_sms_notification",
+        "title": "Card Alert",
+        "body": "Verify unusaul activity on Debit card ending in cardlastfour.\r\nOpen the mobile app to verify.",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Live"
+    },
+    {
+        "templateId": "sms_p_OLD",
+        "templateName": "purchase_alert_mobile_push_notification",
+        "title": "Purchase",
+        "body": " productname   cardlastfour\n amount",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Rejected"
+    },
+    {
+        "templateId": "spring_boot_mongo_test",
+        "templateName": "Card_alert_sms_notification_With_Springboot",
+        "title": "Card Alert",
+        "body": "Verify unusaul activity on Debit card ending in cardlastfour.\r\nOpen the mobile app to verify.",
+        "android_sound": "",
+        "ios_sound": "",
+        "icon": "",
+        "badge": "",
+        "status": "Pending"
+    }
+]

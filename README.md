@@ -1,2 +1,0 @@
-# ReusableTableComponent
-Created with CodeSandbox
